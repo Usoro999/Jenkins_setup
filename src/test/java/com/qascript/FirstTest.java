@@ -22,7 +22,6 @@ public class FirstTest {
         Assert.assertTrue("Page title is not correct",driver.getTitle().equals("Google"));
     }
 
-
 }
 
 
